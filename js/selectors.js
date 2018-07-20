@@ -8,6 +8,6 @@ $(document).ready(function() {
   }
   
   function ninjaBabySelector(){
-    $('#')
+    $('#baby-ninja')
   }
 });
