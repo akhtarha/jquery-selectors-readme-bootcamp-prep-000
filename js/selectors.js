@@ -12,6 +12,10 @@ $(document).ready(function() {
   }
   
   function divSelector(){
-    return 
+    return $('.pics')
+  }
+  
+  function firstListItem(){
+    return £('ul:first')
   }
 });
