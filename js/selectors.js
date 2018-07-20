@@ -1,4 +1,3 @@
-$(document).ready(function() {
   function paragraphSelector(){
     return $('p')
   }
@@ -18,4 +17,3 @@ $(document).ready(function() {
   function firstListItem(){
     return $('ul:first')
   }
-});
