@@ -10,4 +10,8 @@ $(document).ready(function() {
   function ninjaBabySelector(){
     return $('#baby-ninja')
   }
+  
+  function divSelector(){
+    return 
+  }
 });
