@@ -16,6 +16,6 @@ $(document).ready(function() {
   }
   
   function firstListItem(){
-    return £('ul:first')
+    return $('ul:first')
   }
 });
